@@ -10,7 +10,7 @@ WayFarer is a public bus transportation booking service.
 - [Sign in.](https://OkelloAndrewPeters.github.io/way-farer/UI/signin.html)
 - [Admin can create a trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/create_trip.html)
 - [Admin can cancel a trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/admin/trip_del.html)
-- [View all trips.](https://OkelloAndrewPeters.github.io/way-farer/UI/index.html)  
+- [View all trips.](https://OkelloAndrewPeters.github.io/way-farer/UI/index.html)    
 - [View a specific trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/trip.html)
 - [Book a seat on a trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/book.html)
 - [View all bookings.](https://OkelloAndrewPeters.github.io/way-farer/UI/admin/index.html)
