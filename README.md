@@ -1,4 +1,4 @@
-# **Way-Farer**
+# **way-farer**
 
 ## **Project description**
 
@@ -6,23 +6,23 @@ WayFarer is a public bus transportation booking service.
 
 ## **UI Required features**
 
-- [Sign up.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/signup.html)
-- [Sign in.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/signin.html)
-- [Admin can create a trip.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/create_trip.html)
-- [Admin can cancel a trip.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/admin/trip_del.html)
-- [View all trips.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/index.html)
-- [View a specific trip.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/trip.html)
-- [Book a seat on a trip.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/book.html)
-- [View all bookings.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/admin/index.html)
-- [View all bookings by the user.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/bookings.html)
+- [Sign up.](https://OkelloAndrewPeters.github.io/way-farer/UI/signup.html)
+- [Sign in.](https://OkelloAndrewPeters.github.io/way-farer/UI/signin.html)
+- [Admin can create a trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/create_trip.html)
+- [Admin can cancel a trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/admin/trip_del.html)
+- [View all trips.](https://OkelloAndrewPeters.github.io/way-farer/UI/index.html)
+- [View a specific trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/trip.html)
+- [Book a seat on a trip.](https://OkelloAndrewPeters.github.io/way-farer/UI/book.html)
+- [View all bookings.](https://OkelloAndrewPeters.github.io/way-farer/UI/admin/index.html)
+- [View all bookings by the user.](https://OkelloAndrewPeters.github.io/way-farer/UI/bookings.html)
 
-- [Delete a booking.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/booking.html)
+- [Delete a booking.](https://OkelloAndrewPeters.github.io/way-farer/UI/booking.html)
 
 # **Optional features**
 
-- [Filter trips based on origin.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/index.html)
-- [Filter trips based on destination.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/index.html)
-- [Specify a seat number when making a booking.](https://OkelloAndrewPeters.github.io/Way-Farer/UI/book.html)
+- [Filter trips based on origin.](https://OkelloAndrewPeters.github.io/way-farer/UI/index.html)
+- [Filter trips based on destination.](https://OkelloAndrewPeters.github.io/way-farer/UI/index.html)
+- [Specify a seat number when making a booking.](https://OkelloAndrewPeters.github.io/way-farer/UI/book.html)
 
 # **Technonlogies**
 
@@ -45,8 +45,8 @@ WayFarer is a public bus transportation booking service.
 
 ## **Clone the project**
 
-    - git clone https://github.com/OkelloAndrewPeters/Way-Farer.git
-    - cd /Way-Farer
+    - git clone https://github.com/OkelloAndrewPeters/way-farer.git
+    - cd /way-farer
     - npm install (to install required dependencies)
     - npm run dev (to start the development server)
 
@@ -79,7 +79,7 @@ WayFarer is a public bus transportation booking service.
 
 ## **UI Templates**
 
-[https://OkelloAndrewPeters.github.io/Way-Farer/UI/](https://OkelloAndrewPeters.github.io/Way-Farer/UI/)
+[https://OkelloAndrewPeters.github.io/way-farer/UI/](https://OkelloAndrewPeters.github.io/way-farer/UI/)
 
 
 # **Author**
