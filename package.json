@@ -57,12 +57,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amkayondo/Way-Farer.git"
+    "url": "git+https://github.com/OkelloAndrewPeters/way-farer.git"
   },
-  "author": "kayondo edward",
+  "author": "Okello Andrew Peter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amkayondo/Way-Farer/issues"
+    "url": "https://github.com/OkelloAndrewPeters/way-farer/issues"
   },
-  "homepage": "https://github.com/amkayondo/Way-Farer#readme"
+  "homepage": "https://github.com/OkelloAndrewPeters/way-farer#readme"
 }
